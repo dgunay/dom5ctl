@@ -11,7 +11,7 @@ args = [
     "--nosteam",
     "--tcpserver",
     "--textonly",
-    "--mapfile steve.map",
+    "--mapfile Biddyn.map",
     "--port 1024",
     "--renaming",
     "--thrones 2 4 0",
