@@ -21,7 +21,5 @@ game_folder = "{}/.dominions5/savedgames/{}".format(home, game)
 if not exists(game_folder):
    raise Exception("Game {} does not exist".format(game))
 
-fp = tempfile.NamedTemporaryFile(prefix="dominions", suffix="sucks")
-fp.write(b"setinterval %d" % minutes)
-
-shutil.copy(fp.name, "{}/domcmd".format(game_folder))
+cmdfile = open("{}/domcmd".format(game_folder), "w")
+cmdfile.write("setinterval %d" % minutes)
