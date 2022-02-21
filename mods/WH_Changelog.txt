@@ -1,0 +1,626 @@
+6.25
+
+LA Pythium gained Hero - Mithra, the Adorable One
+Master of the Games is now correctly a multihero and removed for EA Ermor, new sprite
+Ravana can now reanimate undead
+St Christopher B3 > H3
+Swordbearer gained H2
+Knight of the Stone mapmove 10 > 16
+Skadi fireres -5 > shockres -5, Size 5 > 6, gained Snow Move & Ice Protection 2
+Jaundice Demon gained Poison Resist 15
+
+
+6.24
+
+Worthy Heroes updated to allow new patch heroes to appear
+Vaettiheim gained heroes: Spornsjall, Hel
+Utgard lost hero: Hel
+Na'Ba gained hero: Swordbearer
+Ind gained hero: Cynocephalian Saint
+
+MA/LA Auluudh hero now summons 1 Aboleth unit/turn
+White Minotaur is now correctly a Multihero
+Uru'gallu gained Swimming
+
+
+6.23
+
+Re-added Red Tengu lightning strike
+Re-added heroes removed from recent patch
+MA and LA Auluudh gained 3 misc slots
+Remove Morgana le Fay and Merlin heroes due to vanilla additions
+
+
+6.22
+
+Fixed missing sprite and weapon bugs
+Fixed typos (Thanks Lambda!)
+
+Doomed Aboleth Tainted 50% > 15%
+Auluudh gained 3 misc slots
+Angelique gained H1, summmons Angel of the Host in battle
+Tomaso gained +2 Morale, +5 Fire res due to Fire Plate, Domsummons Flagellants
+
+New Heroes:
+EA/MA/LA Pan:	Silenus, Wise Satyr
+MA Asphodel	Ampelos, Satyr Mandragora
+
+
+
+6.21 Changelog
+
+Re-Added 2 missing LA Ulm heroes incorrectly removed in previous versions
+
+Fixed error due to incorrect sprite location for Arges
+
+Removed Ho Hsien Ku the Immortal from EA and LA TC
+Removed Li T'ieh-Kuai the Master with the Iron Crutch from MA and LA TC
+Removed Tenjiro, the Dragon Girl from EA and LA TC
+Added Da Yu the Master of Earth and Water to EA TC
+Added Hou Yi the Immortal Archer to EA TC
+Added Jing Wei the Bird Maiden to EA TC
+Added Sun Wu the Military Scholar to MA TC
+Added Li Er the Learned Scholar to MA TC
+Added Kubadei the Khagan to LA TC
+Added Phagpa to Imperial Preceptor to LA TC
+Added Panlong the Dragon of Rain to LA TC
+
+
+6.2 Changelog
+
+Added Tetlachihuiani Multihero to EA/MA/LA Mictlan
+Added Malgven, Warrior Queen to EA Tir na n'Og
+Added Oleg, Fair and Great Prince to EA Rus
+Added Olga, Vengeful Widow to EA Rus
+Added Veles, Shaman of Many Forms to EA Rus
+Added Arges, Apprentice of Titans to EA Mekone
+Added Enkelados, the First Gigante to EA Mekone
+Added Pyraemon, Architect of Oppresion to MA Phlegra
+Added Polybotes, Cursed King to MA Phlegra
+Added Alcinous, King-Consort to MA Phaeacia
+Added Ahessa, Swan Herald to MA Ys
+Removed Eurytion, Herdsman from LA Erytheia - now appears when Geryon appears
+Added Demetrius, Library Founder to LA Erytheia
+Added Callimachus, Bibliographer to LA Erytheia
+Added Ibn Sina, Travelling Scholar to LA Erytheia 
+
+Etimmu gained Turn Arrival Limit 10
+Ravana gained Reanimator Priest
+Eckesacks sword is now 2-handed
+
+
+EA Arco
+Pathos (954), Son of the Titans, Awe, inspirational +1, invulnerable 20, enc 9! (+stats, +slots,+personal luck,+heroic weapon,+enchanted armor,+sacred,+awe)
+Daidalos (1073), Maker of the Maze, F1A1W1E3, siege 50, siegedeff 50, old age (+starts battle with 1d6 clockwork horrors and 2 mechanical men, less old)
+Anthromacus (371), Hero, superiorleader, inspirational +1 (+stats, +slots,+inspirational,+personal luck,+heroic weapon,+enchanted armor)
+Asterios (1089), Monster in the Maze, invulnerable, slashres, bluntres, size 4 (+stats, +fear, +crush attack)
+Orokestes (587), Hierophant, F1A1W1E1S2H2, (unchanged)
+Muse, multihero. S3 and 100% +2 FAWESN ; awe 6, seduction, stealth, inspiration +2, inspiring researcher +1, spread magic, spread dominion
+
+EA Ermor
+Innocentious (1587), Primate, H4, recuperation, healer 2, old age (+less old, +summons 3 Equites of the Sacred Shroud each battle)
+Cornelius (1586), Pontifex Maximus, F2S2H3, old age (+less old, +magic [F2S3H3])
+Hero (37), Master of the Games, batstartsum 2 Gladiators, gold cost 25 (+stats, +heroic weapons, + custom eye poking attak, custom limp-causing attack, +slots, +personal luck, + goldcost 1)
+Caesar, Adventurous governor, F2A2H2, equite stat, enchanted equipment, create 2 upkeepless eponi knight per turn 
+Multihero, Sauromancer, W1D3N1, 110% W/S/D/N 
+
+EA Ulm
+Warenhis (1584), Son of Steel, sacred (+stats, +inspirational,+slots,+heroic weapon,+enchanted armor,+personal luck,+stealthy)
+Athalwolf (1583), Maker of Heroes, E1S2D2N1H2, stealthy, old (unchanged)
+Eburhart (1582), Guardian of the Tree, E2N3H3, stealthy (unchanged)
+Multihero (5401), Hero Chief, E1N1H2, 100% F/E/D/N, 100% F/A/W/E, inspirational, forgebonus 1, stealthy 
+
+EA Maverni
+Corix (1849), Blinded, E2S4N2H2, blind (duh), old (unchanged)
+Carnon (1843), Antlered One, animalawe, inspirational +1, berserker +5, stealthy (+stats,+slots,+heroic weapon,+enchanted armor,+personal luck)
+The One in the Woods (1588), Wanderer, E2S3N4H2, animalawe 4, beast master 1 (unchanged)
+Multihero, Bloodhenge Druid, N1B2H2, W/E/S/N 210%, old age, douse 4 
+
+EA Sauromatia
+Skögu (1589), Man Eater, D4N1B3, Fear 10, (unchanged)
+Delgnat (1795), Partholonian Sorceress, A3W2D4, immortal, undead, homesick 20%, pooramph, (unchanged)
+Kirke (1228), Pharmakeia, A2S2D4N4, sacred, stealthy, glamour, healer 1 healer 4 and disease healer 4
+
+EA T'ien C'hi
+Lu Tung-Pin (943), The Immortal, E1A1W2S3, immortal, flying (unchanged)
+Tanjiro (2458), the Dragon Girl, A3W4E2 (with buff), comes with custom magic item (misc slot, +1 elemetal paths, + 1 penetration bonus), amphibian, flying, dragonshape, cold blooded, darkvision 50 (unchanged)
+Ho Hsien-Ku (942), the immortal, A1N2, ethereal, flying, immortal, healer 1 (+stats, +magic [A1N2H3], +healer [3])
+Li T'ieh-Kuai (944), Master with the Iron Crutch, A2S2D2, sacred, fear 5, immortal, old age, plague carrier 5 (unchanged)
+
+EA Machaka
+Mchumpa (1706), Ape Oracle, N1, fortuneteller 5 (new description [no voices of the lord in EA], +magic [N2S2], +fortuneteller [10])
+Mwaka (1426), Crowned Ape, H1, summons Great Apes (1705) (new description [no voices of the lord in EA], +stats,+slots,+batstartsum 2d6 Great Apes)
+Dziva, Hippopotamus Clan Elder. W3N3H1, old (-1 stats), human stats.
+Omaro, Lion Hero, F1E2N4, improved lion warrior stats, his spirit club does damage x3 vs larger being. Adventuring events. The exact events are terrain locked, almost alway require heat 1 as well, and have a 10% likelyhood
+Lion Spirit, multihero. F1N1H3, khitaironic lion stats with Awe, domsummon sacred lionesses
+Spider Spirit, multihero. F1D1N1, hunter spider stats, leap attack, his poison can mind control people. It's stealthy and an assassin.
+
+EA Mictlan
+Mictlipoctli (933), King of Legends, D3B3H3, pierceres, undead (unchanged)
+Tepeyocatl (936), Eagle Priest, A1B1H1, sacred (+stats, +magic [A2B2H1])
+Tabhijiatl, Sun Serpent, F3N2B2H3, awe, animal, poisonres 10, fireres 10, coldblooded, nobadevents 15
+Tetlachihuiani, multihero, D2N2 100%S/D/N/B
+
+EA Abysia
+Malphas (1667), Warlock, F3S2B4, demon, sacred, demonform with stealthy, assassin, flying and darkpower (unchanged)
+Malikastis, Experiment, F1E2B1, fireres 25, heat 4, fear 5, poisonres 15
+Multihero, Child of Anthrax, F2D2, ethereal, fireres 25, poisonres 25, banefireshield 8, sacred
+
+EA Caelum
+Isvat (1674), Unwinged, awe +2, shockres 10, coldres 5, inspirational +1, magicbeing (+slots,+stats, +heroic weapon,+enchanted armor,+awe [3],) 
+Frelion, Storm Knight, sacred, fear 5, flying, coldres 15, shockres 15, iceprot 2, inspirational 1, stormimmune, secondtmpshape (King Eagle) 
+Hushedar, First Heavenborn, F3A3H3, awe 4, flying, stormimmune, fireres 15, shockres 10, coldres 5, inspirational 1, fireshield 6, glamour, disbelieve
+Multihero, High Seraphine, S3H3, flying 
+
+EA C'tis
+Zilammu (1708), Consort of the Dead, S2D4N3, poisonres 5 (unchanged)
+Niklatu (379), Lizard Hero, Inspirational +1, poisonres 5 (+stats, +heroic weapon, +enchanted armor, +reinvigoration, +slots, +personal luck)
+Udum´ukinna (1660), Reassembled Prince, H2, undead, immortal, pierceres, trample, inspirational 1 (unchanged)
+Kabti'ili (635), Ancient Shaman, S2N2H1, taskmaster +3 (unchanged) 
+
+EA Pangaea
+Menopathos (540), White Minotaur, H2, berserk +5, recuperation, inspirational 1 (+stats,+slots) 
+Arcopythera (614), Harpy Queen, A2N2, flying, stealthy, recuperation, autosummon harpies (239)(+slots, +stealthy,+stats) 
+Karya and Petraios (2246), Blessed Couple, W1E1N3H2, awe 4, stealthy, berserk 4, recuperation, beast master 2, innate spellcaster 1, secondshape 2247 (grieving Dryad), W1E1D2N3H2, awe 4, stealthy, recuperation, beast master (unchanged) 
+
+EA Agartha
+Ogon (1458), Earth-Blooded, F2E5H3, amphibian, siegebonus 5, fortuneteller 5, reinvigoration 4 (unchanged) 
+Deepthought (1678), Great Olm, W3E3, sacred, amphibian, coldred 5, poisonres 15, blind, fortuneteller 10, doesnoteat (+stats, +crown armor) 
+Ulug (1772), Olm Spawn, F1E1H2 ambhibian, coldres 5, poisonres 15, darkvision 100 (+stats, +magic [F1W1E2D1H2]) 
+Moss Agate (2492), Member of the Closed Council, W1E4N2H3, amphibian, coldblood, siegebonus 5, fortuneteller 10 (unchanged) 
+Lapis (2493), Member of the Closed Council, W2E4D2H3, amphibian, coldblood, siegebonus 5, fortuneteller 10 (unchanged) 
+Obsidian Eye (2494), Member of the Closed Council, E4D3H3, amphibian, coldblood, siegebonus 5, fortuneteller 15 (unchanged) 
+
+EA Tir'na n'Og
+Lugh (1805), Long Handed, F3A3N2H3, awe 5, fireres 15, glamour, siegebonus 20, sailing (999 points, max size 3), Fire shield 9, darkvision, forgebonus 1 (unchanged) 
+Malgven, Warrior Queen, F1A3W2E2H2, Glamour, darkvision, Inspirational 1, Mounted, Spellsinger
+Dagda, Good Man, E2N2H2, supplybonus 50, inspirational 1, custom AoE weapon, seduce, stealthy, glamour, researchbonus -4 
+Ogma, Wise Man, E1A2N3H2, awe 1, stealthy, glamour, custom lootable weapon, researchbonus 4 + inspired researcher 1 
+
+EA Fomoria
+Balor (1804), High King, A3D4H3, amphibian, coldres 5, sailing (999, maxsize 6), fear 5, gluttony 20, darkvision, gift of water breathing 30 (unchanged) 
+Bres (1803), Uncursed, A3D1N2H2, amphibian, awe 4, sailing (999, maxsize 6), coldres 5, gift of water breathing 20 (unchanged) 
+Macha (1793), Nemedian Queen, A3W2D3N3H2, stealthy, glamour, darkvision 50 (unchanged) 
+Tuan (1794), The Last Partholonian, A2W1D4, sacred, immortal, stealthy, glamour, darkvision 50, researchbonus 10 (unchanged) 
+
+EA Vanheim
+Vanlade (590), Vanadrott, A4D2B2H2, stealthy, glamour 65, sailing (999, maxsize 3), Inspirational +1 (unchanged) 
+Sölvis (1511), Vanadis, F2A3H1, stealthy, glamour, awe 3, flying (unchanged) 
+Golgemar, the bringer of (mis)fortune for EA Vanheim
+- fortune form : A2E2, bringer of fortune 15, fortune teller 15,
+- misfortune form : D2B2, stealth 45, ethereal, assassin, popkiller 10, bringer of misfortune 20, spread turmoil
+Multihero, Dwarf Elder, F1E3, mastersmith 1, forgebonus 2, researchbonus 7 
+
+EA Helheim
+Sigdriva (2473), Hangadrottning, A3D4H2, Stealthy, flying, glamour (unchanged) 
+Geirskögul, Daughter of the Storms, shockres 25, magic being, stormpower 3, stormimmune, stealthy, glmour, sacred, casts "Storm" at the beginning of each battle 
+Hel, Queen of the Underworld, A2S2D3B2, stealth, glamour, casts "Undead Horde" at the start of battle 
+Loki, Trickster, F3A3B3, coldres 5, fireres 5, poisonres -10, spy, sailing (999 size max 6), incunrest 5, illusion, stealth, custom mass-confusing ranged attack, 
+
+EA Niefelheim
+Tjatse (1382), Abductor, A3W3D3H2, fireres -5, coldres 25, chill 21, coldpower 1, iceprot 3, eagleshape with + 1 air magic (-1 other paths) (unchanged) 
+Angerboda (586), Great Hag, S3D3N2B3, coldres 15, poisonres 15, death curse (unchanged) 
+Skadi, Huntress, W3N2, coldres 25, fireres -5, stealthy, coldaura 10, sacred, coldpower 1 
+
+EA Rus
+Oleg, Fair and Great Prince, F2A2N2H3, sacred, Mounted, Inspirational 1, Fortune Teller 20%
+Olga, Vengeful Widow, F4A2N3H3, sacred, Inspirational 1, siegebonus 50
+Veles, Shaman of Many Forms, W2N3B2, sacred, regeneration 10%, Berserk 2, recuperation, Alternate form: Bear, Alternate form: Giant Snake
+
+EA Kailaisa
+Katidata, King of the Jungle, N2, animalawe 4, sacred, slots, crush attack, forestshape with + stats and +magic (N3) 
+Airavata, Divine Steed, W2H3, awe, trample, animal, magicbeing, pooramphibian, casts "rain" at the start of each battle) 
+Rama, Divine King, W1E1N2H3, awe, inspiratonal 1, magicbeing, siegebonus 25, ambidex 6, custom weapons) 
+Devasura (1585), Fallen, B3, magic being (unchanged) 
+Valmiki, the Meditating Sage. Inspiring researcher 2, domspread 1, immobile. Can be awakened, he lose inspiring research, but get E2S4N2H2, and is no longer immobile
+
+
+EA Lanka
+Bapu (1914), Apostate Raja, H2, pooramph, fear 5, undead, never heals, pillage 25 (+slots, +stats) 
+Ravana, Demon King A2D3B2H3, demon, regeneration 25, fireres -5, gluttony 9, chaospower 1, fear 5, custom weapons
+Vishvavasu, Kabandha N2D2B2, demon, recuperation, forestsurvival, fear 5, gluttony 10, popkill 50, incunrest 5, stealthy, 2 crush attacks, swallow attack
+Multihero, Kharahasara, A1N1 (2x100% A/W/E/N), sacred 
+
+EA Yomi
+Tsunekage (1673), Devourer of Demons, F1D1, regeneration, demon, inspirational 1 (+regeneration [40], +stats, +enchanted armor) 
+Kurofumi (1672), Master of the Shadow Blossom, F1E2D4B1, blinds attackers, demon (unchanged) 
+Masatora (1671), Ghost General, D2, fear 5, undead, chill 3, ethereal, float (+immortal) 
+Fuykane, Bandit King, F1E1B2, stealthy, fireres 5, poisonres 5, fear 5, chaospower 1, gluttony 5, summons 1 shortbow bandit per month, starts battle with 2d6 shortbow bandits, generates 1 blood slave per month, increases unrest by 5 
+
+EA Hinnom
+Puloman (2079), Son of Shamsiel, F4B3H1, fireres 15, fear 5, gluttony 50, popkiller 120, incunrest 12 (unchanged) 
+Sabnock (2080), Son of Kokabel, S4B3H1, fireres 15, fear 5, gluttony 50, popkiller 120, incunrest 12 (unchanged) 
+Elathan (2078), Son of Ezekiel, A4B3H1, fireres 15, shockres 15, fear 5, gluttony 50, popkiller 120, incunrest 12 (unchanged) 
+Chax (2076), Son of Azazel, F2S2B4H2, fireres 15, fear 5, gluttony 50, popkiller 120, incunrest 12 (unchanged) 
+Asmodai (2077), Son of Semayaza, N4B3H1, fireres 15, poisonres 15, healer 3, fear 5, gluttony 50, popkiller 120, incunrest 12 (unchanged) 
+Morax (2076), Son of Azazel, F2S2B4H2, fireres 15, fear 5, gluttony 50, popkiller 120, incunrest 12 (unchanged) 
+
+EA Ur
+EnHedu'anna (2432), Entu of the Moon, W1E1S3H3, old age, inspirational 2, elegist 3 (less old) 
+Utnapishtim (2433), Favored of Enki, N3H2, immortal, inspirational -1 (unchanged) 
+Adapa, Seventh Sage, A3W3N2H3, amphibian, recuperation,nobadevents 15, sailing 100size 3maxsize, old age 
+
+EA Berytos
+Dis Mater (2429), Bride of the Gods, F3E1D3B3H2 (unchanged)
+Ba´al Hammon (2430), King of the City, F3A2B3H3, fear 5, fireres 8, gluttony 20, old age, popkiller 80, incunrest 8, douse 3, adept sacrificer 3 (unchanged)
+Makelo, Queen of the City, F3A3W3E4N2H2, fear sailing healer 1, mastersmith 1 + shapeshift into a form where she loses hand slots and mastersmith, but gains +1A and W, putting her to A4W4.
+Multihero, Brazen Bull, F1B1H3, 200% F/E/D/B, inanimate, magicbeing, nobadevents 15, researchbonus -10, popkill 50, trample, heat 6, fireres 15,coldres 15, poisonres 25 
+
+EA Xibalba
+Chamiabac, the Demon of the Bone Staff. Onaqui stats, E2D4B1H3. Summon longdead in battle and each month.
+Chamiaholom, the Demon of the Skull Staff. Onaqui stats, F1E2D3B1H3. Summon longdead each month and reanimate its kill.
+Ahalgana, the Jaundice Demon. Onaqui stats, F2D4N1B1H3. Disease cloud, summon diseased corpses, death power.
+Ahalpuh, the Pus Demon. Onaqui stats, F2D4N1B1H3. Poison cloud, summon diseased corpses, death power.
+Ahaltocob, the Stabbing Demon. Onaqui stats, D1B3H1. Custom weapon and armor.
+Ahalmez, the Sweeping Demon. Onaqui stats, E1B3H1. Custom weapon and armor.
+Halach Huinic, multihero. Sun guard stats. 5 sun guards escort. F1B1+200%FEB ; H3 ; Adept Sacrificier 1
+
+EA Mekone
+Alcyonaeus, King of Pallene, F2E3H2, Domimmortal, sacred, Gigantes stats, God-Slayer Spear (unchanged)
+Arges, Apprentice of Titans, F3A2E3, Resources 25, Master Smith 1, Forgebonus 25%,  old aged
+Enkelados, the First Gigante, F3W2E3H3, sacred, Gigantes stats, Inquisitor, 160ldr, old aged
+
+EA Atlantis
+Alp Ulul (5437), Coral King, W3N2, forgebonus 2, amphibian
+Odubur (5438), Wanderer, A2W2S2, sailing (size 600, max 3), stealthy, spy, amphibian
+Mother Hydra (5439), Once and Future Queen, H4, darkvision 100, fortune telling 25, amphibian,
+
+EA R'lyeh
+Auluudh (1691), Mind Lord, W4S4, magic being, aquatic, darkvision 100, void sanity 15 (+stats, custom weapon load-out [soul leech + 4x Enslave Mind])
+Hulbur (5440), Enslaved Mage, F2W2E2S1, amphibian, gift of water breathing 10
+Turkuul, He Who Breathes. A2W2S4, mindlord stats but amphibian instead of aquatic, taskmaster 2, ambidextrous 8, have 4 hand slot (telekinesis)
+Tushaz, Doomed Aboleth. W2E2S3D1B2, Aboleth stats, insane 15, horrormark 50%, 2 life drain tentacle, 2 weakness tentacle, 1 touch of madness (feeble mind)
+
+EA Pelagia
+Thaumas the Wondrous, A3W4S3N1H3, adept researcher +4, Triton kings stats and domsummon. (unchanged)
+Xi Akloz (5441), Lord of Pearls, F1S3W3H2, fixforgebonus 2, aquatic, pearl cultivator 5
+Shubaot (5442), Druid of the Seas, W2A1N4H2, summons 1 sea dog per month, sometimes domsummons Sea Lions, animalawe 3, aquatic
+Sirashu (5443), Black Prince, aquatic, inspirational, enchanted armor, recuperation, personal luck, regeneration 20, sacred 
+
+EA Oceania
+Great Mother (5460), Ancient One, H4, trample, aquatic, animal, nobadevents 25, spreaddom 1, inspiringres 1, inspiring 2
+Sterope, (5454), Siren Queen A2W2D2, +1 watermagic, -1 airmagic, sacred, awe 4, amphibian, recuperation, changes to birdshape in land with +1 airmagic, -1 watermagic and beckon 15
+Calypso (5456), Naiad Queen, recuperation, awe 7, gift of water breathing 50, amphibian, stealthy, seduce 15
+
+EA Therodos
+Axiorcersa, Kabeiride, W2N3, awe 4, leader 120, poor amphibianBattlefield luck, enchanted sword and armor
+Dexithea, Telchine, A4W3E3N2, fear sailing healer 2 mastersmith 1 + shapeshift into a form where she loses hand slots and mastersmith, but gains +1A and W, putting her to A5W4.
+Lysagora, Telchine, A3W3E3D2N2, fear sailing healer 1 mastersmith 1 + shapeshift into a form where she loses hand slots and mastersmith, but gains +1A and W, putting her to A4W4.
+
+MA Arco
+Pathos (954), Son of the Titans, Awe, inspirational +1, invulnerable 20, enc 9! (+stats, +slots,+personal luck,+heroic weapon,+enchanted armor,+sacred,+awe)
+Aleksandros, the Conqueror hero for MA Arco. Fear 5, Awe 1, inspiring 2 (+160 leadership), hooves AoE 1. Can rally indie to his cause
+Orokestes (587), Hierophant, F1A1W1E1S2H2, (unchanged)
+Axiorcersa, Kabeiride, W1N3, awe 4, healer 3, leader 120, poor amphibian Battlefield luck, enchanted sword and armor[/color]
+Muse, multihero. S3 and 100% +2 FAWESN ; awe 6, seduction, stealth, inspiration +2, inspiring researcher +1, spread magic, spread dominion
+
+MA Ermor
+Etimmu (183), Wraith Lord, D3H2, pooramph, fear 10, immortal, ethereal, chill 3, death curse (unchanged)
+Caractor (555), Arch Censor, sacred, fear 5, undead, chill 3 (+stats, +fear [10], +cold [6], +pillagebonus 25, +summons 1 lictor per month, +starts battle with 1d6 lictors)
+Putrescator (2068), Dusk Elder, F2S3D4, pooramph, fear, undead, chill 3, ethereal, stealthy (unchanged)
+
+MA Sceleria
+Mortius (868), Scythe Wielder, S2D3H2, old age, custom scythe that has mr-resists banish to inferno effect (+stats, +generates 1 death gem per month, not old)
+Zirru (977), Grand Thaumaturg, S2D4H2, old age, poisonres 5, coldblooded (+magic [S2D4N2])
+Scassus, sacred, taxcollector, starts battle with 6d6 various mercenaries, A1, start with a book allowing him to cast Trade Wind and who give +1A.
+Pompey, Thrice Triumphant 1W1D1N, swampsurvival, sacred, inspirational 1
+
+MA Pythium 
+Multihero (37), Master of the Games, batstartsum 2 Gladiators, gold cost 25 (+stats, +heroic weapons, + custom eye poking attak, custom limp-causing attack, +slots, +personal luck, + gold cost 1)
+Marius Lorca (505), Hero, goodleader (+stats, +personal luck, +inspirational 1, +superior leader, +heroic weapon, +slots)
+Hierogallus (506), Hero, goodleader, old age (+stats, +poisonres 10, +personal luck, +slots, +expertleader, +heroic weapon)
+Bartholomeus (584), Patriarch, A2W2S3H4, old age (+less old)
+Nikolaos, Miracle Worker, W2E2S3H3, healer, produce supply
+
+MA Man
+Rhianne (381), Heroine, recuperation, patrol bonus 25 (+sacred, +stats, +personal luck, +heroic weapon, +slots, +decreases unrest 10, + hoof attack)
+Bernlad (376), Green Knight, regeneration, recuperation, stealth (+stats, +personal luck, +slots, +regeneration [20])
+Brangwen (582), Blind One, A2S3N3H1, old age, no fortune telling? (less old, +fortune telling 25)
+Nog (2481), Ettin King, gluttnony 3, undisciplined, no retinue although hinted at the description (+slots)
+Knight of the Stone (58), multihero (+sacred, +stats, +heroic weapon, +slots +inspirational 1, +personal luck)
+Merlin, the Wise Enchanter, A1E2N4 Shapeshifter
+
+MA Eriu
+Ferdiad (1777), Fir Bolg Hero, berserk +5 (+stats, +berserk [7], +invulnerable 15, +enchanted armor, +heroic weapon, +reinvigoration, +personal luck)
+Scathach (1844), Trainer of Heroes, A3D2, sacred, flying, stealthy, glamour, darkvision 50, spear of the morrigan weapon (partial life drain, decays mr-resists) (unchanged)
+Cu Chulainn (1778), awe 3, fireres 15, trample (size4), fire shield 6, berserk 8 (+ heroic weapon, +personal luck)
+multihero(1806), Fianna, sacred, inspirational 1, expertleader (+stats, + personal luck, +enchanted armor, +slots)
+Tuan (1794), The Last Partholonian, A2W1D4, sacred, immortal, stealthy, glamour, darkvision 50, researchbonus 10 (unchanged)
+
+MA Ulm
+Barthulf (377), Hero, expertleader, decent stats? (+stats, cold/fire/shock/poisonres 5, +slots, + heroic weapon, + inspirational, +luck)
+Raterik (378), Hero, recuperation, goodleader (+stats, +halt heretic 3, +castledef 5, +slots, +heroic weapon with bane of heresy effect, +luck)
+Hildegrd (507), Heroine, recuperation (+stats, +magic [A1N1], stealthy, +slots, starts battle with 1d6 faeries, +heroic weapon, +luck)
+Wiolant, Locksmith, F1E2S3, production 10, mastersmith 1, researchbonus 6, old age
+Dietrich von Bren, Hero, fireres 10, fear 5, starts battle with luck, custom armor, flame breath attack, berserk 3
+
+MA Marignon
+Angelique (588), Heroine, experleader, inspirational +1 (+stats, +poisonres 10, +stealthy 10, +heroic weapon, +sacred, +slots)
+Carmont (583), Cardinal, F1S1H4, sacred, inquisitor, superiorleader, old age (+way less old)
+Tomaso del Monferrada (589), F3S2H2, inquisitor, expertleader 
+Thramul, Blessed Friar, H1, spreaddom 1, healer 5, recuperation, decreases unrest 10, +slots, stealth
+
+MA Mictlan
+Topiltzin (1884), Priest King, F2A2S3N2H4, poisonres 15. Changeshape into Couatl (Feathered Serpent 1885) with flying, magicbeing, coldblooded, inspirational +1 (unchanged)
+Mictlipoctli (933), King of Legends, D3B3H3, pierceres, undead (unchanged)
+Mixcoatl (1886), Priest King, A3S3N2H3, shockres 5, poisonres 15, changeshape into Couatl (Feathered Serpent 1887) with flying, magicbeing, coldblooded, inspirational +1 (unchanged)
+Toad Priest multihero. W2N2H1 + 100% FWESN + 100% FES. 3d6 toad warrior retinue, summon 1 toad warrior per turn
+Tetlachihuiani, multihero, D2N2 100%S/D/N/B
+
+MA T'ien C'hi
+Lu Tung-Pin (943), The Immortal, E1A1W2S3, immortal, flying (unchanged)
+Tanjiro (2458), the Dragon Girl, A3W4E2 (with buff), comes with custom magic item (misc slot, +1 elemetal paths, + 1 penetration bonus), amphibian, flying, dragonshape, cold blooded, darkvision 50 (unchanged)
+Ho Hsien-Ku (942), the immortal, A1N2, ethereal, flying, immortal, healer 1 (+stats, +magic [A2N3], +healer [3])
+Li T'ieh-Kuai (944), Master with the Iron Crutch, A2S2D2, sacred, fear 5, immortal, old age, plague carrier 5 (unchanged)
+
+MA Machaka
+Ainra (946), Lady of Spiders, F1E3D3, spidershape (+does not lose magic in spidershape, +stats in spidershape)
+Mchumpa (1706), Ape Oracle, N1, fortuneteller 5 (+new description [no voices of the lord in EA], +magic [N2S2], +fortuneteller [10])
+Mwaka (1426), Crowned Ape, H1, summons Great Apes (1705) (+new description [no voices of the lord in EA], +stats,+slots,+batstartsum 2d6 Great Apes)
+Yasini (953), King Triumphant, H3, Awe 1, Inspirational 1, old age (+stats, +awe [3], +personal luck, +slots, +fortune telling 25, +less old)
+Abasi (952), Hero, goodleader, inspirational +1 (+stats, +assassin,+stealthy,+slots,+custom weapon, +personal luck,+strangulation attack,+berserk)
+
+MA Agartha
+Klaus (1848), Mason of the Underworld, F1W1E2D3H1, stealthy, siegebonus 20, castledef 20, darkvision 50, spy, forgebonus 1, old age (+less old)
+Kin-Breaker (1846), Onyx Oracle, W1E3H3, pooramph, slashres, pierceres, poisonres 25, magicbeing, inanimate, mindless, neednoteat, never heals, darkvision 100, fortuneteller 10 (unchanged)
+Golog (1847), Decrepit, E3D4H1, amphibian, coldblooded, neednoteat, siegebonus 4, darkvision 100, old age, fortune teller 10, gets Cavern Wights (1501) (+recuperation [to heal old age afflictions, keep on getting older and grumpier, dude!])
+
+MA Abysia
+Rago (539), Rage Lord, sacred, berserk, fireres 25, heat 3, darkvision 50, fire power 1, description mentions lava warrior friends but he does not seem to summon them or come into battle with them (+stats, +heat [6], custom weapons, 2x Evening Star, +slots, +personal luck, +starts battle with 3 lava warriors)
+Ba'al Chozron (581), Anathemant Warlock, F3B3H3, fireres25, heat 6, darkvision 50, old age (+magic [F3S3B3H3], +less old)
+Chuzrael (867), Slayer, fireres25, heat 3, flying, stealthy 65, darkvision, assassin 1 (+stats, +patience [4], +slots)
+Malikastis, Experiment, F1E2B1, fireres 25, heat 4, fear 5, poisonres 15
+Multihero, Child of Anthrax, F2D2, ethereal, fireres 25, poisonres 25, banefireshield 8, sacred, 
+
+MA Caelum
+Zaelinys (557), Harab Seraphine, D2H2, flying, coldres 15, stealth, flying (+magic [D3H2])
+Caelos (556), Sacred One, H1, coldres 15, iceprot 2 (+stats, +heroic weapon, +priest [H3], inspirational 1, summons 1 MA Temple Guard per month, starts battle with 2 Temple Guards)
+Name, Storm Knight, sacred, fear 5, flying, coldres 15, shockres 15, iceprot 2, inspirational 1, secondtmpshape (King Eagle)
+Hushedarmah, Second Hevenborn, W3A3H3, awe 4, flying, stormimmune, shockres 10, coldres 15, inspirational 1, cold 6, glamour, disbelieve
+Multihero, High Seraphine, S3H3, flying
+
+MA C'tis
+Gurshar (2272), Sobek High Priest, H3, old age, inspirational +1, coldblooded, poisonres 8 (unchanged)
+Kabti'ili (635), Ancient Shaman, S2N2H1, taskmaster +3 (unchanged)
+Milkom (2394), Sobek Sauromancer, W2D3N2, sacred, poisonres 8, coldblooded (unchanged)
+Murmur (585), Guild Master, D3N3, poisonres 15, coldblooded, stealthy, assassin (3) (unchanged)
+Niklatu (379), Lizard Hero, Inspirational +1, poisonres 5 (+stats, +heroic weapon, +enchanted armor, +reinvigoration, +slots, +personal luck)
+
+MA Pangaea
+Menopathos (540), White Minotaur, H2, berserk +5, recuperation, inspirational 1 (+stats,+slots)
+Arcopythera (614), Harpy Queen, A2N2, flying, stealthy, recuperation, autosummon harpies (239) (+slots, +stealthy,+stats)
+Rams Head (770), White Satyr, sacred, awe 3, stealthy, berserk 3, recuperation, inspirational 1, expertleader (+stats, +heroic weapon, +slots, +personal luck)
+Taurotyrannos (611), Black Bull, E1N3B3, stealthy, berserk 7, recuperation (unchanged)
+
+MA Asphodel
+Panicratos (863), Apostatic Warrior, D1N2H1, stealthy, berserk +5, recuperation, assassin (0) (+stats, +priest [D1N2H3])
+Kairya, the Grieving Dryad, W2E1D4N3H2 Black Dryad that reanimates slain enemies into manikins
+Ettin Mandragora (861), H1 (unchanged)
+
+MA Vanheim
+Farbaute (544), berserk +8 (+stats, +heroic weapon, +axe of sharpness, +personal luck, +slots, + summons 2 friends of farbaute each combat)
+Vanlade (590), Vanadrott, A4D2B2H2, stealthy, glamour 65, sailing (999, maxsize 3), Inspirational +1 (unchanged)
+Geirskögul, Daughter of the Storms, shockres 25, magic being, stormpower 3, stormimmune, stealthy, glmour, sacred, casts "Storm" at the beginning of each battle
+Laurin, Keeper of the Rose Garden. W1E2N3, size 2 cavalry, str 25 (!), animal awe 5, 1 temp nature gem
+Sigurd the Dragon Slayer. Mounted human stats, invul 15, fire resistance 10, stealthy 90, inspirational 1, AN sword
+Multihero, Dwarf Elder, F1E3, mastersmith 1, forgebonus 2, researchbonus 7
+
+MA Jotunheim
+Angerboda (586), Great Hag, S3D3N2B3, coldres 15, poisonres 15, death curse (unchanged)
+Sporsnjall (508), Wolf Lord, stealthy, pillage bonus 10, summons 3 wolfs (284) with command (+stats, + summons 2 wolf riders per month, +personal luck, +stealthy [25], +slots)
+Tjatse (1382), Abductor, A3W3D3H2, fireres -5, coldres 25, chill 21, coldpower 1, iceprot 3, eagleshape with + 1 air magic (-1 other paths) (unchanged)
+Skadi (5417), Huntress, W3N2, coldres 25, fireres -5, stealthy, coldaura 10, sacred, coldpower 1
+Loki (5416), Trickster, F3A3B3, coldres 5, fireres 5, poisonres -10, spy, sailing (999 size max 6), incunrest 5, illusion, stealth, custom mass-confusing ranged attack, 
+
+MA Vanaris
+Kalevipoeg, (5452) Noble Giant, personal luck, inspirational 1, coldres 5, brings gold 25, resources 50, supplybonus 50, decreases unrest 5, sailing 20 sizemax 4 size limit, cursed custom sword, berserk 2, sacred 
+Tuuslar, Master Sorcerer, A3S2D1, coldres 5, summons 2d6 phantasmal warriors and 1d6 phantasmal knight, glamour, ritual range +1, each combat
+Ilmarine, Skysmith, F2A2E2H1, coldres 5, mastersmith 1, forgebonus 2, starts battle with one golden bride
+Aino, the Last Runesinger, E2S3N1, coldres 5, summons 2d6 animated tools, increases prod, decreases unrest, has a cursed, two-handed instrument that autocasts charm
+
+MA Bandar Log
+Bandarjuna (2270), Tathagata, H2, reincarnation, inspiratonal +1, summons seekers of truth (+priest [H3])
+Barhisakavr, Sword Dancer, reincarnation, sacred, slots, custom attack, custom shield, "quicken self" on himself at the start of battle 
+Gogamura, Black Terror, D2, demon, chaospower 1, darkpower 2, enchanted weapon, assassin (2), stealthy
+Devasura (1585), Fallen, B3, magic being (unchanged)
+
+MA Shinuyama
+Yukinaga (1670), Heart Hider, F1D1, immortal, darkvision 50 (+fear 5)
+Multihero, Child of Oni, F1E1D1, 200% F/E/D, researchbonus -4, gluttony 3, fire/poisonres 5, demon
+Fuykane, Bandit King, F1E1B2, stealthy, fireres 5, poisonres 5, fear 5, chaospower 1, gluttony 5, summons 1 shortbow bandit per month, starts battle with 2d6 shortbow bandits, generates 1 blood slave per month, increases unrest by 5
+
+MA Ashdod
+Sheshai (2077), First Son of Anak, F4H2, fireres 8, old age, berserk +8, gluttony 10 (less old)
+Ahiman (2048), Second Son of Anak, E4H2, fireres 5, old age, gluttony 10 (less old)
+Talmai (2049), Third Son of Anak, F1E1S4H2, fireres 5, gluttony 10, old age, fortune teller 15, forgebonus 1 (unchanged)
+
+MA Nazca
+Manco-Occlo, the First Couple, F2A2E2S2D4H4, 3 head, 5 misc, royal mallqui stats+1H
+Keshvar, Apostate Seraph, F1A3W2S2, caelian seraph stats Less old
+Pachacuti, Inca Qhapaq, F2A2E3H3, inca stats, have earth elemental retinue
+Mama Pacha, Wingless Coya, E3N3H1, coya stats but no flying, healer 2, fortune telling 15%
+
+MA Xibalba
+Zipacna, Arrogant Demon. 80 HP, 13 natural protection, size 5, Grab & Swallow + Bite/Claw/Claw, att 14, def 7, enc 2, sacred, +30 siege bonus. Have a chance to finish for in 1 turn.
+Tzimin, Chilan Balam. F1E1D2B3H2, Chilan stats, Fortune Teller 15, -6 research, Have a book who give +1H, +12 research, Healer 1, Fortune Teller 15
+Ahalmez, Surviving Onaqui, Onaqui stats, E2B4H1, custom armor and weapon, assassin
+
+MA Phlegra
+Phlegyas, Theurg Tyrant, F1A2E2S3H3, Fortune Teller 5%, sacred, communion master (unchanged)
+Pyraemon, Architect of Oppression, F2A1E3, Resources 25, Master Smith 1, communion master, Casts Power of the Spheres each battle
+Polybotes, Cursed King, F3E2D3, Tyrant stats, Regeneration 10%, Poison resist 15, Poson cloud 6, Snake Leg attacks, Fear 5, Berserk 4, Shattered Soul 5%
+
+MA Phaeacia
+Melite, Aegaeide, W3N3, Stealthy, Disease Healer 1, Are 6, Gift of Waterbreathing 30, Homesick 10%, Amphibian, Recuperation (unchanged)
+Nausicaa, Phaeacian Princess, A2W1S1H1, Stealthy, Sailing, sacred, spy (unchanged)
+Alcinous, King-Consort, F3A2E2H2, Colossi Warrior stats, sacred, Golden Spear, Gleaming Armor
+
+MA Atlantis
+Shudul Cthuda (373), Coral Prince, W1H2, amphibian, darkvision 100, poison barbs (+stats, +magic [W2H2])
+Chuddar Kadul (558), Seer King, W4S3, amphibian, darkvision 50, gift of water breathing 50 (unchanged)
+Shakuth, Escaped Slave Prince, amphibian, slots, inspirational, casts "Antimagic" at the start of battle
+
+MA R'lyeh
+Auluudh (660), Aboleth, W4S4, magic being, aquatic, darkvision 100, void sanity 15, taskmaster +3 (+stats, custom weapon load-out [soul leech + 4x Enslave Mind])
+Cthugul (560), Stargazer, W2S5H2, amph, magic being, summoning 5, darkvision 100, void sanity 10 (unchanged)
+Shadul Ummush (622), Traitor King, W5, amphibious, darkvision 50, gift of water breathing 20 (unchanged)
+Name, Visitor, A1S4, sacred, amphibian, magic being, cold/poisonres 15, ethereal, blind, void sanity 20, teleportation
+
+MA Pelagia
+Xi Akloz, Lord of Pearls, F1S3W3H2, fixforgebonus 2, aquatic, pearl cultivator 5
+Shubaot, Druid of the Seas, W2A1N4H2, summons 1 sea dog per month, sometimes domsummons Sea Lions, animalawe 3, aquatic
+Sirashu, Black Prince, aquatic, inspirational, enchanted armor, recuperation, personal luck, regeneration 20, sacred 
+
+MA Oceania
+Great Mother (5460), Ancient One, H4, trample, aquatic, animal, nobadevents 25, spreaddom 1, inspiringres 1, inspiring 2
+Sterope, (5454), Siren Queen A2W2D2, +1 watermagic, -1 airmagic, sacred, awe 4, amphibian, recuperation, changes to birdshape in land with +1 airmagic, -1 watermagic and beckon 15
+Calypso (5456), Naiad Queen, recuperation, awe 7, gift of water breathing 50, amphibian, stealthy, seduce 15
+
+MA Ys
+Malgven, Queen of the North, F3A3W2E2H2, Morvrach, sacred, Golden weapons & armor, Darkvision, Inspirational, Sailing, amphibious, spellsinger, Glamour (unchanged)
+Dahut, Morgen Queen, F1A4W3E2H2, Morvrach, sacred, Golden weapons & armor, Darkvision, Inspirational, Sailing, amphibious, spellsinger, Glamour (unchanged)
+Ahessa, Swan Herald, A2W2H1, Glamour, sacred, spellsinger, Flying, Sailing, Domsummon20 Swan Knights, Mounted
+
+LA Arcosephale
+Pathos (954), Son of the Titans, Awe, inspirational +1, invulnerable 20, enc 9! (+stats, +slots,+personal luck,+heroic weapon,+enchanted armor,+sacred,+awe)
+Anthromacus (371), Hero, superiorleader, inspirational +1 (+stats, +slots,+inspirational,+personal luck,+heroic weapon,+enchanted armor)
+Orokestes (587), Hierophant, F1A1W1E1S2H2, (unchanged)
+Thessaonike, mourning siren heroine. A2W2 + either +1W or A depending on if she is in the sea or not. Siren stats, MR instakill wail.
+Muse, multihero. S3 and 100% +2 FAWESN ; awe 6, seduction, stealth, inspiration +2, inspiring researcher +1, spread magic, spread dominion
+
+LA Pythium
+Multihero (37), Master of the Games, batstartsum 2 Gladiators, gold cost 25, (+stats, +heroic weapons, + custom eye poking attak, custom limp-causing attack, +slots, +personal luck, +gold cost 1)
+Hierogallus (506), Hero, goodleader, old age (+stats, +poisonres 10, +personal luck, +slots, +expertleader, +heroic weapon)
+Gallus (865), Pontifex Serpentus, W2N3H3, poisonres 15 (unchanged)
+Utu'Mummu (5426), Impostor, F2W1D2N2H2, poisonres 15, swampsurvival, wastesurvival, coldblood, 
+
+LA Lemuria
+Etimmu (183), Wraith Lord, D3H2, pooramph, fear 10, immortal, ethereal, chill 3, death curse (unchanged)
+Tenebrus (945), Shade King, H2, pooramph, undead, ethereal, stealthy, darkpower 3 (+hp, +stealthy, +immortal)
+Scassius (5468), Cursed Consul, H3, coldres 25, poisonres 25, immortal, taxcollector, brings 50 gold per month, amphibian, ethereal, cold 3, petrification, 
+
+LA Man
+Bernlad (376), Green Knight, regeneration, recuperation, stealth (+stats, +personal luck, +slots, +regeneration [20])
+Name (5427), The Cursed Monk, A1N2H1, stealthy, summons 1 Cu Sidhe per month, summons 1d6 Cu Sidhe in each battle
+Morgana le Fay heroine. A3W1E1N2, stealthy, glamour, seducer, healer 3
+Rhianne (381), Heroine, recuperation, patrol bonus 25 (+sacred, +stats, +personal luck, +heroic weapon, +slots, +decreases unrest 10, + hoof attack)
+
+LA Ulm
+Alfred (1024), Member of the Third Tier, F2S2B2 stealthy, spy, old age (+assassin (2), not old)
+Ulrich Patrifagus (1021), Ghoul Baron, halt heretic 7, poisonres 25, undead, siegebonus 5, summons ghouls (198) (+stats, +black steel armor, +slots, +berserk 3)
+Burkhard Nachtzehrer (1035), Blood Marshal, B2, regeneration 20%, invunerable 25, coldres 15, poisonres 25, undead, immortal, flying, Cannot pass Rivers, autosummons thralls (1022) (+pillagebonus, +fear 5, + drain life attack)
+
+LA Marignon
+Carmont (583), Cardinal, F1S1H4, sacred, inquisitor, superiorleader, old age (+way less old)
+La Malinche, heroine for LA Marignon. D2N1B3, tlahueputchli stats, heretic, stealthy, seducer, shapeshift into a flying form that cause unrest
+Juan Bruns, the Last Conquistador. A1W2N3, -6 research, -2 ritual, inspirational, heretic, sailor, domsummon mercenaries
+Guardian of the Chalice, multihero. F1H2 + 100% FAES + 100% FAES, regen 10%, recuperation, inspirational 1
+
+LA Mictlan
+Tepeyocatl (936), Eagle Priest, A1B1H1, sacred (unchanged)
+Mictlipoctli (933), King of Legends, D3B3H3, pierceres, undead (unchanged)
+Quetzalcoatl (935), Priest King, S3N3B3H3, poisonres 15, shapechange into Feathered Serpent (934) with poisonres 15, magicbeing, coldblooded, flying and inspirational +1 (unchanged)
+Tetlachihuiani, multihero, D2N2 100%S/D/N/B
+
+LA T'ien C'hi
+Lu Tung-Pin (943), The Immortal, E1A1W2S3, immortal, flying (unchanged)
+Tanjiro (2458), the Dragon Girl, A3W4E2 (with buff), comes with custom magic item (misc slot, +1 elemetal paths, + 1 penetration bonus), amphibian, flying, dragonshape, cold blooded, darkvision 50 (unchanged)
+Ho Hsien-Ku (942), the immortal, A1N2, ethereal, flying, immortal, healer 1 (+stats, +magic [A2N3], +healer [3])
+Li T'ieh-Kuai (944), Master with the Iron Crutch, A2S2D2, sacred, fear 5, immortal, old age, plague carrier 5 (unchanged)
+
+LA Jomon
+Hashi Saburo (1579), Red Devil, fear 5, inspirational +1 (+stealthy, +heroic weapon, +personal luck, +stats)
+Ryotaro (1580), Son of the Dragon King, W2, amphibian, gift of water breathing (+stats, +magic [W3])
+Kenji (1915), Red Tengu, sacred, stormflying, can throw lightning (+stats, +heroic weapon, +inspirational 1, +slots, +personal luck)
+
+LA Agartha
+Eckhart (2530), Master of Alchemical Secrets, F2W2E2S1D1H1, poisonres 5, insane 10, darkvision 50, old, adept researcher (+10), alchemist (100) (unchanged)
+Kin-Breaker (1846), Onyx Oracle, W1E3H3, pooramph, slashres, pierceres, poisonres 25, magicbeing, inanimate, mindless, neednoteat, never heals, darkvision 100, fortuneteller 10 (unchanged)
+Multihero (5449), Possessed Flame Corpse, F1, 75% F, 30% F, 20% F, fireres 10, immortal, blows up on death
+
+LA Abysia
+Ba'al Chozron (581), Anathemant Warlock, F3B3H3, fireres25, heat 6, darkvision 50, old age (+magic [F3S3B3H3], +less old)
+Chuzrael (867), Slayer, fireres25, heat 3, flying, stealthy 65, darkvision 50, assassin 1 [removed from selection and replaced with Anathemant Hierophant for thematic reasons]
+Chuzrael (5428), Anathemant Hierophant, F2B2H2, fireres 25, heat 3, flying, stealthy 65, darkvision 50, assassin 5, researchbonus -8, 
+Malikash (5407), Experiment, F1E2B1, fireres 25, heat 4, fear 5, poisonres 15
+Multihero (5406), Child of Anthrax, F2D2, ethereal, fireres 25, poisonres 25, banefireshield 8, sacred 
+
+LA Caelum
+Zaelinys (557), Harab Seraphine, D2H2, flying, coldres 15, stealth, flying. [Removed and replaced by Harab Seraphine for thematic reasons]
+Caelos (556), Sacred One, H1, coldres 15, iceprot 2 [removed, no temple guards in LA]
+Varesruva (5429), Last Crafter, W3, forgebonus2, stealthy, flying, coldres 10, iceforging 10
+Saoshyant (5473), Third Hevenborn, A3E3H3, awe 4, flying, stormimmune, shockres 10, coldres 15, inspirational 1, glamour, disbelieve, reanimator 15
+Azerine (5430), Harab Seraphine, A1S2D3H3, flying, stealthy
+
+LA C'tis
+Ekishnugal (864), First King, D3H4, pierceres, undead, lifeless, inspirational +2 (unchanged)
+Uru'gallu (380), Lizard Hero, okleader, has star of heroes (+stats, +summons custom elite warriors, +slots, +personal luck, +heroic weapon)
+Udum´ukinna (1660), Reassembled Prince, H2, undead, immortal, pierceres, trample, inspirational 1 (unchanged)
+
+LA Pangaea
+Menopathos (540), White Minotaur, H2, berserk +5, recuperation, inspirational 1 (+stats,+slots)
+Arcopythera (614), Harpy Queen, A2N2, flying, stealthy, recuperation, autosummon harpies (239) (+slots, +stealthy,+stats)
+Rams Head (770), White Satyr, sacred, awe 3, stealthy, berserk 3, recuperation, inspirational 1, expertleader (+stats, +heroic weapon, +slots, +personal luck)
+Taurotyrannos (611), Black Bull, E1N3B3, stealthy, berserk 7, recuperation (unchanged)
+
+LA Midgård
+Farbaute (544), berserk +8 (+stats, +heroic weapon, +axe of sharpness, +personal luck, +slots)
+Vanlade (590), Vanadrott, A4D2B2H2, stealthy, glamour 65, sailing (999, maxsize 3), Inspirational +1 (unchanged)
+Loki (5416), Trickster, F3A3B3, coldres 5, fireres 5, poisonres -10, spy, sailing (999 size max 6), incunrest 5, illusion, stealth, custom mass-confusing ranged attack,
+Valafrey (5433), The Seeress, S3B2D1, fortunetelling 50
+Laurin, Keeper of the Rose Garden. W1E2N3, size 2 cavalry, str 25 (!), animal awe 5, 1 temp nature gem
+
+LA Utgård
+Angerboda (586), Great Hag, S3D3N2B3, coldres 15, poisonres 15, death curse (unchanged)
+Tjatse (1382), Abductor, A3W3D3H2, fireres -5, coldres 25, chill 21, coldpower 1, iceprot 3, eagleshape with + 1 air magic (-1 other paths) (unchanged)
+Skadi (5417), Huntress, W3N2, coldres 25, fireres -5, stealthy, coldaura 10, sacred, coldpower 1
+Hel, Queen of the Underworld, A2S2D3B2, stealth, glamour, casts "Undead Horde" at the start of battle 
+
+LA Bogarus
+Baba Yaga (1958), Hag, A3W1D4N2, fear 5, coldres 15, poisonres 15, flying, (unchanged)
+Alexej (1962), Patriarch, D1B2H4, coldres 3, old age, autosummons Khlysts (1921) (+less old)
+Koschei (1959), Deathless, A2W2D3, fear 5, coldres 25, poisonres 15, immortal, chill 5, old age (unchanged)
+Multihero (1957), Bogatyr, H1, old age, coldres 3, inspirational +1 (+stats, +heroic weapon, +priest [H2], +personal luck)
+
+LA Patala
+Balabita (5434), Golden Naga, F3S2N2H1, fire/poisonres 15, coldblooded, awe 2 
+Katidata (5435), Ancient Ape, N1B1, custom weapon, berserk, generates 1 blood slave per month
+Gogamura (5424), Black Terror, D2, demon, chaospower 1, darkpower 2, enchanted weapon, assassin (2), stealthy
+Devasura (1585), Fallen, B3, magic being (unchanged)
+Valmiki, the Meditating Sage. Inspiring researcher 1, domspread 1, immobile. Can be awakened, he lose inspiring research, but get E2S4N2H2, and is no longer immobile
+
+LA Gath
+Sabba (2070), Sibyl of Hermon, S3N4, sacred, fortunetelling 15, healer 5 (unchanged)
+Champion (5436), Goliath, fear 5, fireres 10, sacred, halt heretic 3, slots, magical weapons & armor, gluttony 4, no headslot and no helmet
+Multihero (1985), Nabi, H2, okleader (+spreaddom 1, +[priest H3] +summon 1 Levite Zealot per month, starts battle with 4 Levite Zealots)
+Cain the Kinslayer. D2N2, damage reversal +7 (!), immortal, old as shit (6600/1600)
+
+LA Ragha
+Fatherslayer, B3H1, kill pop, blooddouse 1 (unchanged)
+Arash, Mighty Bowman, custom bow that fire at 100 squares with unerring precision, autocast wind guide
+Rostam, Unconquered Warrior, F2H1, gryphon riders stats with berserk and fire shield ; unmounted secondshape
+
+
+LA Xibalba
+Mam Lum, Grandfather Earth, F2W4E4H4, Basalt King stat. (unchanged)
+Tzimin, Chilan Balam. F1E1D2B3H2, Chilan stats, Fortune Teller 15, -6 research, Have a book who give +1H, +12 research, Healer 1, Fortune Teller 15
+Pizarro, Cursed Conquistador, F1D1B1, HP30, protection 8 + enchanted armor, high stats, undead, poor amphibian, fire shield 10. Very potent cursed weapon who can be picked up on his death
+
+LA Atlantis
+Sialuk (1634), Kivigtok, W1D2H1, pooramph, coldres 5, darkvision 50 (+ bite and claw weapons from the mount)
+Mother Hydra (2085), Once and Future Queen, H4, amphibian, fear 5, fireres 5, coldres 5, darkvision 100, void sanity 20 (+unchanged)
+Odubur, Thawed One, A2W2S2H2, sailing (size 600 max 3), inspirational 1, amphibian
+Katuhan, Traitor, A2W3, coldres 15, flying, forgebonus 2, iceforging 10
+
+LA R'lyeh
+Auluudh (660), Aboleth, W4S4, magic being, aquatic, darkvision 100, void sanity 15, taskmaster +3 (+stats, custom weapon load-out [soul leech + 4x Enslave Mind])
+Cthugul (560), Stargazer, W2S5H2, amph, magic being, summoning 5, darkvision 100, void sanity 10 (unchanged)
+Shadul Ummush (622), Traitor King, W5, amphibious, darkvision 50, gift of water breathing 20 (unchanged)
+Name, Visitor, A1S4, sacred, amphibian, magic being, cold/poisonres 15, ethereal, blind, void sanity 20, teleportation
+
+LA Erytheia
+Geryon, Triple-Headed, F1E2, Gigantes Stats, 3 heads, Battlesummon Hound of Twilight, Golden weapons & armor (unchanged)
+Eurytion, Herdsman, N1, Summon Allies 1 Red Cattle - Removed, now appears when Geryon appears
+Demetrius, Library Founder, F2W3E2S3, +18 Researchbonus, 2 Sloth research, old age
+Callimachus, Bibliographer, F1W1E1S2, old age, In capital gets +2 Inspired Reseacher & +6 Researchbonus
+Ibn Sina, Travelling Scholar, F1A2S2N3, Healer 1, +12 Researchbonus, Siegebonus +30
