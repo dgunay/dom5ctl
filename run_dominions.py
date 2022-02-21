@@ -11,11 +11,11 @@ args = [
     "--nosteam",
     "--tcpserver",
     "--textonly",
-    "--mapfile Biddyn.map",
+    "--mapfile 'Tentacle Acres.map'",
     "--port 1024",
     "--renaming",
-    "--thrones 2 4 0",
-    "--requiredap 6",        
+    "--thrones 3 3 0",
+    "--requiredap 6",
     # Put other settings here
 ]
 
