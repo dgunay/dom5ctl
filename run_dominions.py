@@ -11,10 +11,11 @@ args = [
     "--nosteam",
     "--tcpserver",
     "--textonly",
-    "--mapfile 'Tentacle Acres.map'",
+    "--mapfile 'Jack\'s Birthday Bash.map'",
     "--port 1024",
     "--renaming",
-    "--thrones 3 3 0",
+    "--era 1"
+    "--thrones 4 3 0",
     "--requiredap 6",
     # Put other settings here
 ]
