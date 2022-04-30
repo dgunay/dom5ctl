@@ -1,7 +1,7 @@
-#modname "New Sprites(With ID Claims) v4.0"
+#modname "New Sprites(With ID Claims) v4.3"
 #description "it's a mod, duh"
 #icon "sprites/logo.tga"
-#version 4.0
+#version 4.3
 
 
 --items
@@ -11,7 +11,7 @@
 #end
 
 
---dummy IDs 8000-7991
+--dummy IDs 8000-7988
 
 --commander sprite dummies
 #newmonster 8000
@@ -88,6 +88,18 @@
 #spr2 "sprites/hoburgs/fuehrer_attack.tga"
 #end
 
+--wind lord
+#newmonster 7987
+#spr1 "sprites/ArcoEA/wind_lord_idle.tga"
+#spr2 "sprites/ArcoEA/wind_lord_attack.tga"
+#end
+
+--golem
+#selectmonster 471
+#spr1 "sprites/indies/golem_idle.tga"
+#spr2 "sprites/indies/golem_attack.tga"
+#end
+
 --horse tribe
 #selectmonster 137
 #spr1 "sprites/indies/horse_tribe_idle.tga"
@@ -98,6 +110,95 @@
 #spr1 "sprites/indies/horse_tribe_chief_idle.tga"
 #spr2 "sprites/indies/horse_tribe_chief_attack.tga"
 #end
+
+--onyx amazons
+
+#selectmonster 355
+#spr1 "sprites/amazons/onyx_sorc_idle.tga"
+#spr2 "sprites/amazons/onyx_sorc_attack.tga"
+#end
+
+#selectmonster 356
+#spr1 "sprites/amazons/onyx_priest_idle.tga"
+#spr2 "sprites/amazons/onyx_priest_attack.tga"
+#end
+
+#selectmonster 357
+#spr1 "sprites/amazons/onyx_amazon_idle.tga"
+#spr2 "sprites/amazons/onyx_amazon_attack.tga"
+#end
+
+#selectmonster 369
+#spr1 "sprites/amazons/onyx_nightmare_idle.tga"
+#spr2 "sprites/amazons/onyx_nightmare_attack.tga"
+#end
+
+--jade amazons
+
+#selectmonster 352
+#spr1 "sprites/amazons/jade_sorc_idle.tga"
+#spr2 "sprites/amazons/jade_sorc_attack.tga"
+#end
+
+#selectmonster 353
+#spr1 "sprites/amazons/jade_priest_idle.tga"
+#spr2 "sprites/amazons/jade_priest_attack.tga"
+#end
+
+#selectmonster 354
+#spr1 "sprites/amazons/jade_amazon_idle.tga"
+#spr2 "sprites/amazons/jade_amazon_attack.tga"
+#end
+
+#selectmonster 370
+#spr1 "sprites/amazons/jade_maiden_idle.tga"
+#spr2 "sprites/amazons/jade_maiden_attack.tga"
+#end
+
+--garnet amazons
+
+#selectmonster 349
+#spr1 "sprites/amazons/garnet_sorc_idle.tga"
+#spr2 "sprites/amazons/garnet_sorc_attack.tga"
+#end
+
+#selectmonster 350
+#spr1 "sprites/amazons/garnet_priest_idle.tga"
+#spr2 "sprites/amazons/garnet_priest_attack.tga"
+#end
+
+#selectmonster 351
+#spr1 "sprites/amazons/garnet_amazon_idle.tga"
+#spr2 "sprites/amazons/garnet_amazon_attack.tga"
+#end
+
+#selectmonster 612
+#spr1 "sprites/amazons/garnet_gryphon_idle.tga"
+#spr2 "sprites/amazons/garnet_gryphon_attack.tga"
+#end
+
+--crystal amazons
+
+#selectmonster 346
+#spr1 "sprites/amazons/crystal_sorc_idle.tga"
+#spr2 "sprites/amazons/crystal_sorc_attack.tga"
+#end
+
+#selectmonster 347
+#spr1 "sprites/amazons/crystal_priest_idle.tga"
+#spr2 "sprites/amazons/crystal_priest_attack.tga"
+#end
+
+#selectmonster 348
+#spr1 "sprites/amazons/crystal_amazon_idle.tga"
+#spr2 "sprites/amazons/crystal_amazon_attack.tga"
+#end
+
+#selectmonster 367
+#spr1 "sprites/amazons/crystal_pegasus_idle.tga"
+#spr2 "sprites/amazons/crystal_pegasus_attack.tga"
+#end
+
 
 
 --hoburgs
@@ -180,6 +281,22 @@
 #spr2 "sprites/indies/peasant_attack.tga"
 #end
 
+--seer and knights
+
+#selectmonster 106
+#spr1 "sprites/indies/seer_idle.tga"
+#spr2 "sprites/indies/seer_attack.tga"
+#end
+
+#selectmonster 390
+#spr1 "sprites/indies/grey_knight_idle.tga"
+#spr2 "sprites/indies/grey_knight_attack.tga"
+#end
+
+#selectmonster 391
+#spr1 "sprites/indies/grey_knight_com_idle.tga"
+#spr2 "sprites/indies/grey_knight_com_attack.tga"
+#end
 
 --mermen
 #selectmonster 1065
@@ -282,6 +399,17 @@
 #spr2 "sprites/IndiesUW/knight_attack.tga"
 #end
 
+--jaguar tribe
+
+#selectmonster 1611
+#spr1 "sprites/indies/jaguar_warrior_idle.tga"
+#spr2 "sprites/indies/jaguar_warrior_attack.tga"
+#end
+
+#selectmonster 1612
+#spr1 "sprites/indies/jaguar_priest_idle.tga"
+#spr2 "sprites/indies/jaguar_priest_attack.tga"
+#end
 
 --spectral mage
 #selectmonster 329
@@ -792,6 +920,151 @@
 
 
 --EA
+
+--tien chi
+
+#selectmonster 788
+#spr1 "sprites/TCEA/horseman_idle.tga"
+#spr2 "sprites/TCEA/horseman_attack.tga"
+#end
+
+#selectmonster 794
+#spr1 "sprites/TCEA/footman_pike_idle.tga"
+#spr2 "sprites/TCEA/footman_pike_attack.tga"
+#end
+
+#selectmonster 795
+#spr1 "sprites/TCEA/footman_glaive_idle.tga"
+#spr2 "sprites/TCEA/footman_glaive_attack.tga"
+#end
+
+#selectmonster 796
+#spr1 "sprites/TCEA/footman_shield_idle.tga"
+#spr2 "sprites/TCEA/footman_shield_attack.tga"
+#end
+
+#selectmonster 797
+#spr1 "sprites/TCEA/footman_bow_idle.tga"
+#spr2 "sprites/TCEA/footman_bow_attack.tga"
+#end
+
+#selectmonster 808
+#spr1 "sprites/TCEA/master_idle.tga"
+#spr2 "sprites/TCEA/master_attack.tga"
+#end
+
+#selectmonster 927
+#spr1 "sprites/TCEA/noble_idle.tga"
+#spr2 "sprites/TCEA/noble_attack.tga"
+#end
+
+#selectmonster 928
+#spr1 "sprites/TCEA/heavy_glaive_idle.tga"
+#spr2 "sprites/TCEA/heavy_glaive_attack.tga"
+#end
+
+#selectmonster 929
+#spr1 "sprites/TCEA/heavy_shield_idle.tga"
+#spr2 "sprites/TCEA/heavy_shield_attack.tga"
+#end
+
+#selectmonster 940
+#spr1 "sprites/TCEA/elemental_master_idle.tga"
+#spr2 "sprites/TCEA/elemental_master_attack.tga"
+#end
+
+#selectmonster 941
+#spr1 "sprites/TCEA/celestial_idle.tga"
+#spr2 "sprites/TCEA/celestial_attack.tga"
+#end
+
+#selectmonster 1544
+#spr1 "sprites/TCEA/sacred_idle.tga"
+#spr2 "sprites/TCEA/sacred_attack.tga"
+#end
+
+#selectmonster 1665
+#spr1 "sprites/TCEA/noble_com_idle.tga"
+#spr2 "sprites/TCEA/noble_com_attack.tga"
+#end
+
+#selectmonster 1901
+#spr1 "sprites/TCEA/medium_glaive_idle.tga"
+#spr2 "sprites/TCEA/medium_glaive_attack.tga"
+#end
+
+#selectmonster 1904
+#spr1 "sprites/TCEA/medium_shield_idle.tga"
+#spr2 "sprites/TCEA/medium_shield_attack.tga"
+#end
+
+#selectmonster 3060
+#spr1 "sprites/TCEA/pretender_idle.tga"
+#spr2 "sprites/TCEA/pretender_attack.tga"
+#end
+
+
+--ubar
+
+#selectmonster 3453
+#spr1 "sprites/UbarEA/warrior_idle.tga"
+#spr2 "sprites/UbarEA/warrior_attack.tga"
+#end
+
+#selectmonster 3454
+#spr1 "sprites/UbarEA/rider_idle.tga"
+#spr2 "sprites/UbarEA/rider_attack.tga"
+#end
+
+#selectmonster 3455
+#spr1 "sprites/UbarEA/spearman_idle.tga"
+#spr2 "sprites/UbarEA/spearman_attack.tga"
+#end
+
+#selectmonster 3456
+#spr1 "sprites/UbarEA/brazen_idle.tga"
+#spr2 "sprites/UbarEA/brazen_attack.tga"
+#end
+
+#selectmonster 3457
+#spr1 "sprites/UbarEA/warrior_idle.tga"
+#spr2 "sprites/UbarEA/warrior_attack.tga"
+#end
+
+#selectmonster 3458
+#spr1 "sprites/UbarEA/com_idle.tga"
+#spr2 "sprites/UbarEA/com_attack.tga"
+#end
+
+#selectmonster 3459
+#spr1 "sprites/UbarEA/sheik_idle.tga"
+#spr2 "sprites/UbarEA/sheik_attack.tga"
+#end
+
+#selectmonster 3460
+#spr1 "sprites/UbarEA/kahin_idle.tga"
+#spr2 "sprites/UbarEA/kahin_attack.tga"
+#end
+
+#selectmonster 3461
+#spr1 "sprites/UbarEA/tubba_idle.tga"
+#spr2 "sprites/UbarEA/tubba_attack.tga"
+#end
+
+#selectmonster 3462
+#spr1 "sprites/UbarEA/sahir_idle.tga"
+#spr2 "sprites/UbarEA/sahir_attack.tga"
+#end
+
+#selectmonster 3463
+#spr1 "sprites/UbarEA/jinn_idle.tga"
+#spr2 "sprites/UbarEA/jinn_attack.tga"
+#end
+
+#selectmonster 3470
+#spr1 "sprites/UbarEA/archer_idle.tga"
+#spr2 "sprites/UbarEA/archer_attack.tga"
+#end
 
 --lanka
 
@@ -2320,8 +2593,7 @@
 #end
 
 #selectmonster 1075
-#spr1 "sprites/ArcoEA/wind_rider_idle.tga"
-#spr2 "sprites/ArcoEA/wind_rider_attack.tga"
+#copyspr 7987
 #end
 
 #selectmonster 1076
@@ -2653,6 +2925,303 @@
 #end
 
 --MA
+
+--pelagia
+
+#selectmonster 1046
+#spr1 "sprites/PelagiaMA/net_thrower_land_idle.tga"
+#spr2 "sprites/PelagiaMA/net_thrower_land_attack.tga"
+#end
+
+#selectmonster 1047
+#spr1 "sprites/PelagiaMA/net_thrower_water_idle.tga"
+#spr2 "sprites/PelagiaMA/net_thrower_water_attack.tga"
+#end
+
+#selectmonster 1048
+#spr1 "sprites/PelagiaMA/wave_warrior_water_idle.tga"
+#spr2 "sprites/PelagiaMA/wave_warrior_water_attack.tga"
+#end
+
+#selectmonster 1049
+#spr1 "sprites/PelagiaMA/wave_warrior_land_idle.tga"
+#spr2 "sprites/PelagiaMA/wave_warrior_land_attack.tga"
+#end
+
+#selectmonster 1052
+#spr1 "sprites/PelagiaMA/wave_lord_water_idle.tga"
+#spr2 "sprites/PelagiaMA/wave_lord_water_attack.tga"
+#end
+
+#selectmonster 1053
+#spr1 "sprites/PelagiaMA/wave_lord_land_idle.tga"
+#spr2 "sprites/PelagiaMA/wave_lord_land_attack.tga"
+#end
+
+#selectmonster 1057
+#spr1 "sprites/PelagiaMA/triton_soldier_idle.tga"
+#spr2 "sprites/PelagiaMA/triton_soldier_attack.tga"
+#end
+
+#selectmonster 1061
+#spr1 "sprites/PelagiaMA/prince_idle.tga"
+#spr2 "sprites/PelagiaMA/prince_attack.tga"
+#end
+
+#selectmonster 1069
+#spr1 "sprites/PelagiaMA/triton_com_idle.tga"
+#spr2 "sprites/PelagiaMA/triton_com_attack.tga"
+#end
+
+#selectmonster 2416
+#spr1 "sprites/PelagiaMA/coral_hoplite_idle.tga"
+#spr2 "sprites/PelagiaMA/coral_hoplite_attack.tga"
+#end
+
+#selectmonster 2421
+#spr1 "sprites/PelagiaMA/amber_noble_idle.tga"
+#spr2 "sprites/PelagiaMA/amber_noble_attack.tga"
+#end
+
+#selectmonster 2422
+#spr1 "sprites/PelagiaMA/triton_priest_idle.tga"
+#spr2 "sprites/PelagiaMA/triton_priest_attack.tga"
+#end
+
+#selectmonster 2423
+#spr1 "sprites/PelagiaMA/triton_mage_idle.tga"
+#spr2 "sprites/PelagiaMA/triton_mage_attack.tga"
+#end
+
+#selectmonster 2821
+#spr1 "sprites/PelagiaMA/mer_hoplite_uw_idle.tga"
+#spr2 "sprites/PelagiaMA/mer_hoplite_uw_attack.tga"
+#end
+
+#selectmonster 2822
+#spr1 "sprites/PelagiaMA/mer_hoplite_land_idle.tga"
+#spr2 "sprites/PelagiaMA/mer_hoplite_land_attack.tga"
+#end
+
+#selectmonster 2825
+#spr1 "sprites/PelagiaMA/mer_hoplite_com_uw_idle.tga"
+#spr2 "sprites/PelagiaMA/mer_hoplite_com_uw_attack.tga"
+#end
+
+#selectmonster 2826
+#spr1 "sprites/PelagiaMA/mer_hoplite_com_land_idle.tga"
+#spr2 "sprites/PelagiaMA/mer_hoplite_com_land_attack.tga"
+#end
+
+#selectmonster 2863
+#spr1 "sprites/PelagiaMA/closed_champ_uw_idle.tga"
+#spr2 "sprites/PelagiaMA/closed_champ_uw_attack.tga"
+#end
+
+#selectmonster 2864
+#spr1 "sprites/PelagiaMA/closed_champ_land_idle.tga"
+#spr2 "sprites/PelagiaMA/closed_champ_land_attack.tga"
+#end
+
+#selectmonster 2865
+#spr1 "sprites/PelagiaMA/closed_realm_uw_idle.tga"
+#spr2 "sprites/PelagiaMA/closed_realm_uw_attack.tga"
+#end
+
+#selectmonster 2866
+#spr1 "sprites/PelagiaMA/closed_realm_land_idle.tga"
+#spr2 "sprites/PelagiaMA/closed_realm_land_attack.tga"
+#end
+
+#selectmonster 2867
+#spr1 "sprites/PelagiaMA/daduchos_uw_idle.tga"
+#spr2 "sprites/PelagiaMA/daduchos_uw_attack.tga"
+#end
+
+#selectmonster 2868
+#spr1 "sprites/PelagiaMA/daduchos_land_idle.tga"
+#spr2 "sprites/PelagiaMA/daduchos_land_attack.tga"
+#end
+
+#selectmonster 2869
+#spr1 "sprites/PelagiaMA/closed_apostate_uw_idle.tga"
+#spr2 "sprites/PelagiaMA/closed_apostate_uw_attack.tga"
+#end
+
+#selectmonster 2870
+#spr1 "sprites/PelagiaMA/closed_apostate_land_idle.tga"
+#spr2 "sprites/PelagiaMA/closed_apostate_land_attack.tga"
+#end
+
+--tien chi
+
+#selectmonster 789
+#spr1 "sprites/TCMA/heavy_horseman_idle.tga"
+#spr2 "sprites/TCMA/heavy_horseman_attack.tga"
+#end
+
+#selectmonster 790
+#spr1 "sprites/TCMA/imperial_horseman_idle.tga"
+#spr2 "sprites/TCMA/imperial_horseman_attack.tga"
+#end
+
+#selectmonster 791
+#spr1 "sprites/TCMA/sacred_idle.tga"
+#spr2 "sprites/TCMA/sacred_attack.tga"
+#end
+
+#selectmonster 792
+#spr1 "sprites/TCMA/general_idle.tga"
+#spr2 "sprites/TCMA/general_attack.tga"
+#end
+
+#selectmonster 793
+#spr1 "sprites/TCMA/prince_idle.tga"
+#spr2 "sprites/TCMA/prince_attack.tga"
+#end
+
+#selectmonster 798
+#spr1 "sprites/TCMA/imperial_sword_idle.tga"
+#spr2 "sprites/TCMA/imperial_sword_attack.tga"
+#end
+
+#selectmonster 800
+#spr1 "sprites/TCMA/imperial_shield_idle.tga"
+#spr2 "sprites/TCMA/imperial_shield_attack.tga"
+#end
+
+#selectmonster 801
+#spr1 "sprites/TCMA/imperial_bow_idle.tga"
+#spr2 "sprites/TCMA/imperial_bow_attack.tga"
+#end
+
+#selectmonster 802
+#spr1 "sprites/TCMA/imperial_crossbow_idle.tga"
+#spr2 "sprites/TCMA/imperial_crossbow_attack.tga"
+#end
+
+#selectmonster 803
+#spr1 "sprites/TCMA/celestial_idle.tga"
+#spr2 "sprites/TCMA/celestial_attack.tga"
+#end
+
+#selectmonster 804
+#spr1 "sprites/TCMA/rituals_idle.tga"
+#spr2 "sprites/TCMA/rituals_attack.tga"
+#end
+
+#selectmonster 805
+#spr1 "sprites/TCMA/eunuch_idle.tga"
+#spr2 "sprites/TCMA/eunuch_attack.tga"
+#end
+
+#selectmonster 807
+#spr1 "sprites/TCMA/ceremonial_idle.tga"
+#spr2 "sprites/TCMA/ceremonial_attack.tga"
+#end
+
+#selectmonster 1890
+#spr1 "sprites/TCMA/apothecary_idle.tga"
+#spr2 "sprites/TCMA/apothecary_attack.tga"
+#end
+
+#selectmonster 1891
+#spr1 "sprites/TCMA/alchemist_idle.tga"
+#spr2 "sprites/TCMA/alchemist_attack.tga"
+#end
+
+#selectmonster 1892
+#spr1 "sprites/TCMA/imperial_alchemist_idle.tga"
+#spr2 "sprites/TCMA/imperial_alchemist_attack.tga"
+#end
+
+#selectmonster 1893
+#spr1 "sprites/TCMA/geomancer_idle.tga"
+#spr2 "sprites/TCMA/geomancer_attack.tga"
+#end
+
+#selectmonster 1894
+#spr1 "sprites/TCMA/magic_idle.tga"
+#spr2 "sprites/TCMA/magic_attack.tga"
+#end
+
+#selectmonster 1900
+#spr1 "sprites/TCMA/imperial_glaive_idle.tga"
+#spr2 "sprites/TCMA/imperial_glaive_attack.tga"
+#end
+
+#selectmonster 1902
+#spr1 "sprites/TCMA/ministry_glaive_idle.tga"
+#spr2 "sprites/TCMA/ministry_glaive_attack.tga"
+#end
+
+#selectmonster 1903
+#spr1 "sprites/TCMA/ministry_shield_idle.tga"
+#spr2 "sprites/TCMA/ministry_shield_attack.tga"
+#end
+
+
+--naba
+#selectmonster 3332
+#spr1 "sprites/NabaMA/warrior_idle.tga"
+#spr2 "sprites/NabaMA/warrior_attack.tga"
+#end
+
+#selectmonster 3333
+#spr1 "sprites/NabaMA/rider_idle.tga"
+#spr2 "sprites/NabaMA/rider_attack.tga"
+#end
+
+#selectmonster 3334
+#spr1 "sprites/NabaMA/sheik_idle.tga"
+#spr2 "sprites/NabaMA/sheik_attack.tga"
+#end
+
+#selectmonster 3335
+#spr1 "sprites/NabaMA/avvite_elite_warrior_idle.tga"
+#spr2 "sprites/NabaMA/avvite_elite_warrior_attack.tga"
+#end
+
+#selectmonster 3336
+#spr1 "sprites/NabaMA/avvite_heavy_archer_idle.tga"
+#spr2 "sprites/NabaMA/avvite_heavy_archer_attack.tga"
+#end
+
+#selectmonster 3337
+#spr1 "sprites/NabaMA/avvite_commander_idle.tga"
+#spr2 "sprites/NabaMA/avvite_commander_attack.tga"
+#end
+
+#selectmonster 3338
+#spr1 "sprites/NabaMA/sword_idle.tga"
+#spr2 "sprites/NabaMA/sword_attack.tga"
+#end
+
+#selectmonster 3339
+#spr1 "sprites/NabaMA/sahir_idle.tga"
+#spr2 "sprites/NabaMA/sahir_attack.tga"
+#end
+
+#selectmonster 3347
+#spr1 "sprites/NabaMA/warrior_idle.tga"
+#spr2 "sprites/NabaMA/warrior_attack.tga"
+#end
+
+#selectmonster 3355
+#spr1 "sprites/NabaMA/avvite_spearman_idle.tga"
+#spr2 "sprites/NabaMA/avvite_spearman_attack.tga"
+#end
+
+#selectmonster 3356
+#spr1 "sprites/NabaMA/spearman_idle.tga"
+#spr2 "sprites/NabaMA/spearman_attack.tga"
+#end
+
+#selectmonster 3358
+#spr1 "sprites/NabaMA/karib_idle.tga"
+#spr2 "sprites/NabaMA/karib_attack.tga"
+#end
+
 
 --bandar log
 #selectmonster 1123
@@ -4309,7 +4878,58 @@
 #spr2 "sprites/ShinuyamaMA/kunshu_attack.tga"
 #end
 
+#selectmonster 3196
+#spr1 "sprites/ShinuyamaMA/wight_idle.tga"
+#spr2 "sprites/ShinuyamaMA/wight_attack.tga"
+#end
+
 --LA
+
+--tien chi
+#selectmonster 930
+#spr1 "sprites/TCLA/khan_idle.tga"
+#spr2 "sprites/TCLA/khan_attack.tga"
+#end
+
+#selectmonster 938
+#spr1 "sprites/TCLA/horseman_idle.tga"
+#spr2 "sprites/TCLA/horseman_attack.tga"
+#end
+
+#selectmonster 939
+#spr1 "sprites/TCLA/heavy_horseman_idle.tga"
+#spr2 "sprites/TCLA/heavy_horseman_attack.tga"
+#end
+
+#selectmonster 1577
+#spr1 "sprites/TCLA/ancestor_idle.tga"
+#spr2 "sprites/TCLA/ancestor_attack.tga"
+#end
+
+#selectmonster 1709
+#spr1 "sprites/TCLA/smith_idle.tga"
+#spr2 "sprites/TCLA/smith_attack.tga"
+#end
+
+#selectmonster 1710
+#spr1 "sprites/TCLA/master_idle.tga"
+#spr2 "sprites/TCLA/master_attack.tga"
+#end
+
+#selectmonster 1711
+#spr1 "sprites/TCLA/guide_idle.tga"
+#spr2 "sprites/TCLA/guide_attack.tga"
+#end
+
+#selectmonster 1712
+#spr1 "sprites/TCEA/celestial_idle.tga"
+#spr2 "sprites/TCEA/celestial_attack.tga"
+#end
+
+#selectmonster 1771
+#spr1 "sprites/TCLA/scout_idle.tga"
+#spr2 "sprites/TCLA/scout_attack.tga"
+#end
 
 --atlantis
 #selectmonster 1617
@@ -5554,6 +6174,14 @@
 #flag "sprites/flags/ea_sauromatia.tga"
 #end
 
+#selectnation 10 --ea tien chi
+#flag "sprites/flags/ea_tien_chi.tga"
+#end
+
+#selectnation 11 --ea machaka
+#flag "sprites/flags/ea_machaka.tga"
+#end
+
 #selectnation 12 --ea mictlan
 #flag "sprites/flags/ea_mictlan.tga"
 #end
@@ -5562,8 +6190,16 @@
 #flag "sprites/flags/ea_abysia.tga"
 #end
 
+#selectnation 14 --ea caelum
+#flag "sprites/flags/ea_caelum.tga"
+#end
+
 #selectnation 15 --ea ctis
 #flag "sprites/flags/ea_ctis.tga"
+#end
+
+#selectnation 16 --ea pangaea
+#flag "sprites/flags/ea_pangaea.tga"
 #end
 
 #selectnation 17 --ea agartha
@@ -5618,8 +6254,20 @@
 #flag "sprites/flags/ea_berytos.tga"
 #end
 
+#selectnation 31 --ea xibalba
+#flag "sprites/flags/ea_xibalba.tga"
+#end
+
 #selectnation 32 --ea mekone
 #flag "sprites/flags/ea_mekone.tga"
+#end
+
+#selectnation 33 --ea ubar
+#flag "sprites/flags/ea_ubar.tga"
+#end
+
+#selectnation 36 --ea atlantis
+#flag "sprites/flags/ea_atlantis.tga"
 #end
 
 #selectnation 37 --ea rlyeh
@@ -5628,6 +6276,10 @@
 
 #selectnation 38 --ea pelagia
 #flag "sprites/flags/ea_pelagia.tga"
+#end
+
+#selectnation 39 --ea oceania
+#flag "sprites/flags/ea_oceania.tga"
 #end
 
 #selectnation 40 --ea therodos
@@ -5672,8 +6324,36 @@
 #flag "sprites/flags/ma_mictlan.tga"
 #end
 
+#selectnation 52 --ma tien chi
+#flag "sprites/flags/ma_tien_chi.tga"
+#end
+
+#selectnation 53 --ma machaka
+#flag "sprites/flags/ma_machaka.tga"
+#end
+
 #selectnation 54 --ma agartha
 #flag "sprites/flags/ma_agartha.tga"
+#end
+
+#selectnation 55 --ma abysia
+#flag "sprites/flags/ma_abysia.tga"
+#end
+
+#selectnation 56 --ma caelum
+#flag "sprites/flags/ma_caelum.tga"
+#end
+
+#selectnation 57 --ma ctis
+#flag "sprites/flags/ma_ctis.tga"
+#end
+
+#selectnation 58 --ma pangaea
+#flag "sprites/flags/ma_pangaea.tga"
+#end
+
+#selectnation 59 --ma asphodel
+#flag "sprites/flags/ma_asphodel.tga"
 #end
 
 #selectnation 60 --ma vanheim
@@ -5700,12 +6380,48 @@
 #flag "sprites/flags/ma_ashdod.tga"
 #end
 
+#selectnation 66 --ma uruk
+#flag "sprites/flags/ma_uruk.tga"
+#end
+
+#selectnation 67 --ma nazca
+#flag "sprites/flags/ma_nazca.tga"
+#end
+
+#selectnation 68 --ma xibalba
+#flag "sprites/flags/ma_xibalba.tga"
+#end
+
+#selectnation 69 --ma phlegra
+#flag "sprites/flags/ma_phlegra.tga"
+#end
+
 #selectnation 70 --ma phaeacia
 #flag "sprites/flags/ma_phaeacia.tga"
 #end
 
+#selectnation 71 --ma ind
+#flag "sprites/flags/ma_ind.tga"
+#end
+
+#selectnation 72 --ma naba
+#flag "sprites/flags/ma_naba.tga"
+#end
+
+#selectnation 73 --ma atlantis
+#flag "sprites/flags/ma_atlantis.tga"
+#end
+
 #selectnation 74 --ma rlyeh
 #flag "sprites/flags/ma_rlyeh.tga"
+#end
+
+#selectnation 75 --ma pelagia
+#flag "sprites/flags/ma_pelagia.tga"
+#end
+
+#selectnation 76 --ma oceania
+#flag "sprites/flags/ma_oceania.tga"
 #end
 
 #selectnation 77 --ma ys
@@ -5742,6 +6458,10 @@
 #flag "sprites/flags/la_mictlan.tga"
 #end
 
+#selectnation 87 --la tien chi
+#flag "sprites/flags/la_tien_chi.tga"
+#end
+
 #selectnation 89 --la jomon
 #flag "sprites/flags/la_jomon.tga"
 #end
@@ -5750,8 +6470,20 @@
 #flag "sprites/flags/la_agartha.tga"
 #end
 
+#selectnation 91 --la abysia
+#flag "sprites/flags/la_abysia.tga"
+#end
+
+#selectnation 92 --la caelum
+#flag "sprites/flags/la_caelum.tga"
+#end
+
 #selectnation 93 --la ctis
 #flag "sprites/flags/la_ctis.tga"
+#end
+
+#selectnation 94 --la pangaea
+#flag "sprites/flags/la_pangaea.tga"
 #end
 
 #selectnation 95 --la midgard
@@ -5762,6 +6494,10 @@
 #flag "sprites/flags/la_utgard.tga"
 #end
 
+#selectnation 97 --la bogarus
+#flag "sprites/flags/la_bogarus.tga"
+#end
+
 #selectnation 98 --la patala
 #flag "sprites/flags/la_patala.tga"
 #end
@@ -5770,19 +6506,35 @@
 #flag "sprites/flags/la_gath.tga"
 #end
 
-#selectnation 99 --la gath
-#flag "sprites/flags/la_gath.tga"
+#selectnation 100 --la ragha
+#flag "sprites/flags/la_ragha.tga"
+#end
+
+#selectnation 101 --la xibalba
+#flag "sprites/flags/la_xibalba.tga"
+#end
+
+#selectnation 102 --la phlegra
+#flag "sprites/flags/la_phlegra.tga"
+#end
+
+#selectnation 103 --la vaettiheim
+#flag "sprites/flags/la_vaettiheim.tga"
+#end
+
+#selectnation 106 --la atlantis
+#flag "sprites/flags/la_atlantis.tga"
 #end
 
 #selectnation 107 --la rlyeh
 #flag "sprites/flags/la_rlyeh.tga"
 #end
 
+#selectnation 108 --la erytheia
+#flag "sprites/flags/la_erytheia.tga"
 #end
 
-
-
-
+#end
 
 
 
